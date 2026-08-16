@@ -4,7 +4,7 @@
 
 AdaptEd is an early-stage educational technology project created to explore a practical question: **what is the minimum structure a student needs to study consistently and learn from each session?**
 
-The current public MVP combines a focus timer, session progress, active-recall questions, and concise explanations of evidence-informed study methods. It is intentionally small, testable, and honest about its stage.
+## Live demo\n\n[Open the current AdaptEd MVP](https://adaptive-study-platform-rf.rafasn008.chatgpt.site)\n\nThe current public MVP combines a focus timer, session progress, active-recall questions, and concise explanations of evidence-informed study methods. It is intentionally small, testable, and honest about its stage.
 
 ## What works today
 
